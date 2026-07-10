@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+.DS_Store
+resultados.txt
+test_filter.js
+check_dups.js

@@ -1,0 +1,60 @@
+# ==========================================
+# CONFIGURACIÓN DEL OPTIMIZADOR UMALATOR
+# ==========================================
+# Puedes modificar los valores a la derecha del signo igual (=)
+# No pongas espacios antes ni después del signo igual.
+
+# ID de la pista (Ej: 11613)
+COURSE_ID=10501
+
+# Límite máximo de Rating permitido para la Build (Ej: 25000)
+MAX_RATING=10000
+
+# Límite máximo para cada estadística (Speed, Stamina, Power, etc. Ej: 1500)
+MAX_STAT=1500
+
+# Estrategia de la chica caballo (Opciones: nige, senkou, sasi, oikomi)
+STRATEGY=senkou
+
+# ID de la Uma Musume para tomar en cuenta sus aptitudes (Ej: 110801 para Duramente)
+UMA_ID=103802
+
+# Número de simulaciones a promediar (A mayor número, más exacto pero más lento. Recomendado: 10)
+SIM_COUNT=20
+
+# Activar probabilidad de fallo de habilidades por inteligencia (true o false)
+WISDOM_CHECKS=true
+
+# Estrategia del caballo rival para activar mecánicas de posicionamiento ('mirror' copia tu estrategia)
+PACER_STRATEGY=mirror
+
+# Número de iteraciones del optimizador (Por defecto: 50000. Mayor número = mayor precisión y tiempo)
+ITERATIONS=50000
+
+# ==========================================
+# VARIABLES AMBIENTALES DE PISTA
+# ==========================================
+# Para ver todas las opciones, ejecuta: ./run_optimizer.sh help
+
+# Aptitudes del Caballo (S, A, B, C, D, E, F, G)
+DIST_APT=S
+SURF_APT=S
+STRAT_APT=S
+
+# Temporada (Opciones: Spring, Summer, Autumn, Winter)
+SEASON=Spring
+
+# Clima (Opciones: Sunny, Cloudy, Rainy, Snowy)
+WEATHER=Sunny
+
+# Estado de la pista (Opciones: Firm, Good, Yielding, Soft, Heavy)
+GROUND=Firm
+
+# Hora del día (Opciones: Morning, Midday, Evening, Night)
+TIME=Midday
+
+# Ánimo del caballo (Opciones: -2, -1, 0, 1, 2, o random)
+MOOD=random
+
+# Popularidad (1 es favorito)
+POPULARITY=1
