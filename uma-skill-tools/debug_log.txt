@@ -1,0 +1,17 @@
+--- INICIO DE OPTIMIZACIÓN ---
+[CHECK] Inicializando optimizador y leyendo opciones...
+[CHECK] Worker Threads creados: 2
+[CHECK] Generando candidato inicial y verificando colisiones...
+[CHECK] Bucle de Recocido Simulado iniciado. Imprimiendo estadísticas cada 500 iteraciones.
+[Iter 0] Best Cost: 57.03 | Avg Time: 57.03s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9536 | T: 2500.00
+  -> Stats: SPD 901 | STA 841 | POW 721 | GUT 861 | WIS 741
+  -> Skills: 0
+[Iter 500] Best Cost: 56.93 | Avg Time: 56.93s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9799 | T: 2157.55
+  -> Stats: SPD 901 | STA 841 | POW 732 | GUT 833 | WIS 736
+  -> Skills: 2
+[Iter 1000] Best Cost: 56.93 | Avg Time: 56.93s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9799 | T: 1862.01
+  -> Stats: SPD 901 | STA 841 | POW 732 | GUT 833 | WIS 736
+  -> Skills: 2
+[Iter 1500] Best Cost: 56.93 | Avg Time: 56.93s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9799 | T: 1606.95
+  -> Stats: SPD 901 | STA 841 | POW 732 | GUT 833 | WIS 736
+  -> Skills: 2

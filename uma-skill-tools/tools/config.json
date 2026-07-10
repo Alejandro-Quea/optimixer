@@ -1,0 +1,28 @@
+{
+  "course": 10101,
+  "nsamples": 10,
+  "horse": {
+    "speed": 1200,
+    "stamina": 1200,
+    "power": 1200,
+    "guts": 1200,
+    "wisdom": 1200,
+    "strategy": "Nige",
+    "distanceAptitude": "S",
+    "surfaceAptitude": "S",
+    "strategyAptitude": "S"
+  },
+  "raceParams": {
+    "mood": 2,
+    "ground": "good",
+    "weather": "sunny",
+    "season": "spring",
+    "time": "midday",
+    "grade": "G1",
+    "popularity": 1
+  },
+  "skills": [
+    "100011",
+    "100021"
+  ]
+}
