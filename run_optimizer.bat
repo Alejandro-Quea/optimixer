@@ -59,12 +59,12 @@ echo ==========================================
 
 cd uma-skill-tools
 
-:: Ejecutar optimizador usando powershell para duplicar salida (como tee)
-powershell -Command "npx ts-node tools/optimizer.ts !ARGS! | Tee-Object -FilePath '..\resultados.txt'"
+:: Ejecutar optimizador directamente en CMD (sin powershell para evitar bloqueos)
+call npx ts-node tools/optimizer.ts !ARGS!
 
 echo ==========================================
 echo OPTIMIZACION FINALIZADA.
-echo Puedes revisar 'resultados.txt' para ver el resumen.
+pause
 exit /b 0
 
 :show_help
@@ -72,5 +72,6 @@ echo ==========================================
 echo    MENU DE AYUDA Y PISTAS
 echo ==========================================
 cd uma-skill-tools
-npx ts-node tools/help_menu.ts
+call npx ts-node tools/help_menu.ts
+pause
 exit /b 0
