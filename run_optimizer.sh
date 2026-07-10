@@ -28,6 +28,7 @@ fi
 ARGS=""
 if [ -n "$COURSE_ID" ]; then ARGS="$ARGS --courseid $COURSE_ID"; fi
 if [ -n "$MAX_RATING" ]; then ARGS="$ARGS --max-rating $MAX_RATING"; fi
+if [ -n "$LEAGUE" ]; then ARGS="$ARGS --league $LEAGUE"; fi
 if [ -n "$MAX_STAT" ]; then ARGS="$ARGS --max-stat $MAX_STAT"; fi
 if [ -n "$STRATEGY" ]; then ARGS="$ARGS --strategy $STRATEGY"; fi
 if [ -n "$SIM_COUNT" ]; then ARGS="$ARGS --sim-count $SIM_COUNT"; fi
@@ -37,7 +38,7 @@ elif [ "$WISDOM_CHECKS" = "false" ]; then
     ARGS="$ARGS --no-wisdom-checks"
 fi
 if [ -n "$UMA_ID" ]; then ARGS="$ARGS --uma-id $UMA_ID"; fi
-if [ -n "$PACER_STRATEGY" ]; then ARGS="$ARGS --pacer-strategy $PACER_STRATEGY"; fi
+if [ -n "$THREADS" ]; then ARGS="$ARGS --threads $THREADS"; fi
 if [ -n "$ITERATIONS" ]; then ARGS="$ARGS --iterations $ITERATIONS"; fi
 if [ -n "$DIST_APT" ]; then ARGS="$ARGS --dist-apt $DIST_APT"; fi
 if [ -n "$SURF_APT" ]; then ARGS="$ARGS --surf-apt $SURF_APT"; fi
@@ -49,12 +50,6 @@ if [ -n "$SEASON" ]; then ARGS="$ARGS --season $SEASON"; fi
 if [ -n "$TIME" ]; then ARGS="$ARGS --time $TIME"; fi
 if [ -n "$POPULARITY" ]; then ARGS="$ARGS --popularity $POPULARITY"; fi
 
-echo "Configuración cargada:"
-echo "------------------------------------------"
-cat config.txt | grep -v "^#" | grep "="
-echo "------------------------------------------"
-echo "Ejecutando algoritmo... (Esto puede tomar un par de minutos)"
-echo "Los resultados se están guardando también en: resultados.txt"
 echo "=========================================="
 
 # Moverse a la carpeta del código fuente para usar las dependencias correctas

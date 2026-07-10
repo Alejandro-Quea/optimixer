@@ -10,6 +10,9 @@ COURSE_ID=10501
 # Límite máximo de Rating permitido para la Build (Ej: 25000)
 MAX_RATING=10000
 
+# Liga de la simulación (Opciones: open, ranked)
+LEAGUE=open
+
 # Límite máximo para cada estadística (Speed, Stamina, Power, etc. Ej: 1500)
 MAX_STAT=1500
 
@@ -25,8 +28,8 @@ SIM_COUNT=20
 # Activar probabilidad de fallo de habilidades por inteligencia (true o false)
 WISDOM_CHECKS=true
 
-# Estrategia del caballo rival para activar mecánicas de posicionamiento ('mirror' copia tu estrategia)
-PACER_STRATEGY=mirror
+# Número de hilos/núcleos del procesador a usar (Ej: 2, 4, 8)
+THREADS=2
 
 # Número de iteraciones del optimizador (Por defecto: 50000. Mayor número = mayor precisión y tiempo)
 ITERATIONS=50000

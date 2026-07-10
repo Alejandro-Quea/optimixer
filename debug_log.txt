@@ -1,0 +1,272 @@
+--- INICIO DE OPTIMIZACIÓN ---
+[CHECK] Inicializando optimizador y leyendo opciones...
+[CHECK] Worker Threads creados: 2
+[CHECK] Generando candidato inicial y verificando colisiones...
+[CHECK] Bucle de Recocido Simulado iniciado. Imprimiendo estadísticas cada 500 iteraciones.
+[Iter 0] Best Cost: 57.13 | Avg Time: 57.13s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9577 | T: 2500.00
+  -> Stats: SPD 618 | STA 972 | POW 767 | GUT 944 | WIS 743
+  -> Skills: 0
+[Iter 500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 2157.55
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 1000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 1862.01
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 1500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 1606.95
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 2000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 1386.83
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 2500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 1196.86
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 3000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 1032.91
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 3500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 891.42
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 4000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 769.32
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 4500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 663.93
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 5000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 572.99
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 5500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 989.00
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 6000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 853.53
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 6500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 736.61
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 7000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 635.71
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 7500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 548.63
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 8000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 473.48
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 8500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 408.62
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 9000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 352.65
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 9500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 304.34
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 10000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 262.65
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 10500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 453.35
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 11000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 391.25
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 11500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 337.66
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 12000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 291.40
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 12500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 251.49
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 13000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 217.04
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 13500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 187.31
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 14000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 161.65
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 14500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 139.51
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 15000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 120.40
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 15500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 207.81
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 16000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 179.34
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 16500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 154.78
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 17000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 133.58
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 17500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 115.28
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 18000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 99.49
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 18500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 85.86
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 19000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 74.10
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 19500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 63.95
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 20000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 55.19
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 20500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 95.26
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 21000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 82.21
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 21500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 70.95
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 22000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 61.23
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 22500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 52.84
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 23000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 45.60
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 23500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 39.36
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 24000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 33.97
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 24500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 29.31
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 25000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 25.30
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 25500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 43.67
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 26000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 37.68
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 26500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 32.52
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 27000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 28.07
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 27500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9884 | T: 24.22
+  -> Stats: SPD 744 | STA 863 | POW 931 | GUT 652 | WIS 654
+  -> Skills: 3
+[Iter 28000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 20.90
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 28500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 18.04
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 29000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 15.57
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 29500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 13.44
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 30000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 11.60
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 30500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 10.01
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 31000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 8.64
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 31500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 7.45
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 32000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 6.43
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 32500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 5.55
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 33000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 9.58
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 33500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 8.27
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 34000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 7.14
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 34500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 6.16
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 35000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 5.32
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 35500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 4.59
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 36000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 3.96
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 36500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 3.42
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 37000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 2.95
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 37500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 2.54
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 38000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 4.39
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 38500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 3.79
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 39000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 3.27
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 39500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 2.82
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 40000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 2.44
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 40500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 2.10
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 41000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 1.81
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 41500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 1.57
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 42000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 1.35
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 42500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 1.17
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 43000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 1.01
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 43500] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 0.87
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
+[Iter 44000] Best Cost: 56.60 | Avg Time: 56.60s | WinRate: 0.0% | Avg Rank: 17.4 | Rating: 8931 | T: 0.75
+  -> Stats: SPD 1148 | STA 657 | POW 747 | GUT 108 | WIS 442
+  -> Skills: 5
