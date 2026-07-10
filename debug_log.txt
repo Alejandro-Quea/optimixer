@@ -24,3 +24,12 @@
 [Iter 3000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9964 | T: 1032.91
   -> Stats: SPD 1147 | STA 786 | POW 889 | GUT 548 | WIS 682
   -> Skills: 0
+[Iter 3500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9964 | T: 891.42
+  -> Stats: SPD 1147 | STA 786 | POW 889 | GUT 548 | WIS 682
+  -> Skills: 0
+[Iter 4000] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9964 | T: 769.32
+  -> Stats: SPD 1147 | STA 786 | POW 889 | GUT 548 | WIS 682
+  -> Skills: 0
+[Iter 4500] Best Cost: 56.73 | Avg Time: 56.73s | WinRate: 0.0% | Avg Rank: 18.0 | Rating: 9964 | T: 663.93
+  -> Stats: SPD 1147 | STA 786 | POW 889 | GUT 548 | WIS 682
+  -> Skills: 0
