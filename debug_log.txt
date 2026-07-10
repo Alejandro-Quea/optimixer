@@ -21,3 +21,105 @@
 [Iter 2500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 1196.86
   -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
   -> Skills: 6
+[Iter 3000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 1032.91
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 3500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 891.42
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 4000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 769.32
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 4500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 663.93
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 5000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 572.99
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 5500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 989.00
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 6000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 853.53
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 6500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 736.61
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 7000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 635.71
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 7500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 548.63
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 8000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 473.48
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 8500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 408.62
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 9000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 352.65
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 9500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 304.34
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 10000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 262.65
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 10500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 453.35
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 11000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 391.25
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 11500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 337.66
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 12000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 291.40
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 12500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 251.49
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 13000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 217.04
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 13500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 187.31
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 14000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 161.65
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 14500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 139.51
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 15000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 120.40
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 15500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 207.81
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 16000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 179.34
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 16500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 154.78
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 17000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 133.58
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 17500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 115.28
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 18000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 99.49
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 18500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 85.86
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 19000] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 74.10
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6
+[Iter 19500] Best Cost: 56.65 | Avg Time: 56.65s | WinRate: 0.0% | Avg Rank: 17.8 | Rating: 9973 | T: 63.95
+  -> Stats: SPD 784 | STA 487 | POW 830 | GUT 800 | WIS 833
+  -> Skills: 6

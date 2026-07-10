@@ -22,6 +22,9 @@ for /f "usebackq tokens=1,* delims==" %%A in ("config.txt") do (
     :: Ignorar comentarios
     if "!key:~0,1!" neq "#" (
         if defined val (
+            :: Eliminar retorno de carro si existe (problema comun en Windows)
+            if "!val:~-1!"=="^M" set "val=!val:~0,-1!"
+            for /f "delims=" %%C in ("!val!") do set "val=%%C"
             set "!key!=!val!"
         )
     )
@@ -60,7 +63,7 @@ echo ==========================================
 cd uma-skill-tools
 
 :: Ejecutar optimizador directamente en CMD (sin powershell para evitar bloqueos)
-call npx ts-node tools/optimizer.ts !ARGS!
+call npx ts-node .\tools\optimizer.ts !ARGS!
 
 echo ==========================================
 echo OPTIMIZACION FINALIZADA.
